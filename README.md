@@ -10,4 +10,4 @@ git config --global init.defaultBranch main # Ветка по умолчанию
 
 git config --global core.autocrlf true
 
-git clone https://github.com/Quper87/git-lesson.git
+git clone https://github.com/dias-web/module1.git
